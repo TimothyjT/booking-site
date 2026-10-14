@@ -1,0 +1,63 @@
+# Website + Online Booking
+
+> A clear small-business website with an online booking calendar built in, so customers can see services and book a time online instead of only calling. Builds start at $249 one-time, with a firm quote in writing before work starts.
+
+Website + Online Booking is a product by Northbeam Builds, a small studio in Austin, TX that builds websites and AI tools for local service businesses. Company site: https://northbeambuilds.com
+
+## What it is
+
+Website + Online Booking — for shop owners with an old website, or no website at all: it’s a clear website where customers can see what you do and book a time online, so the phone isn’t the only way to get a job.
+
+## Who it is for
+
+For: Your shop has no website yet.; Your site is old, slow, or has no way to book.; You lose jobs because booking means calling during work hours.
+Not for: Your shop already has a modern website with booking that works.; Your business mainly needs a big online store. That’s a different, bigger build — ask us and we’ll tell you straight.
+
+## Price
+
+From $249 one-time. Most simple sites land at the starting price. You always get a firm quote in writing before we start — the quote is the price.
+Buy online (Stripe checkout): https://buy.stripe.com/eVq6oHg3q7xG1S21AWgYU02
+
+## How it works
+
+1. You tell us about your business on one short call — services, hours, prices, service area.
+2. We build the website and the booking calendar. You see it and approve it before it goes live.
+3. Customers pick a time and book it themselves. You get a notice for every booking — no phone tag.
+
+## What is included
+
+- A clear multi-page website — home, services, about, contact.
+- An online booking calendar.
+- Booking notices sent to you.
+- Your contact info done right everywhere on the page.
+- It’s your website and your content — you own it.
+
+## Questions and answers
+
+- Q: Do I own my website?
+  A: Yes. Your site, your words, your photos. If you ever leave, it goes with you.
+- Q: Can customers really book without calling?
+  A: Yes. They pick a real open time from your calendar and get a confirmation. You get a notice right away.
+- Q: How long does it take?
+  A: We give you a launch date in writing before you pay anything — and the firm quote and the date are the deal.
+- Q: What if I already have a website?
+  A: We can rebuild it or replace it. If what you have already works, we’ll tell you to keep it.
+
+## Links
+
+- Home: https://booking.northbeambuilds.com/
+- Pricing: https://booking.northbeambuilds.com/pricing/
+- FAQ: https://booking.northbeambuilds.com/faq/
+- Contact: https://booking.northbeambuilds.com/contact/
+- Concept demo (not a client): https://northbeambuilds.com/demos/texas-pro-build/
+
+## Contact
+
+Email: northbeambuilds@gmail.com (a person replies within one business day)
+
+## Other Northbeam Builds products
+
+- [Never-Miss-a-Lead](https://nevermiss.northbeambuilds.com/) — instant replies to missed calls and website forms
+- [Website FAQ & Lead Capture Agent](https://faqagent.northbeambuilds.com/) — a website chat box that answers questions and captures leads
+- [AI Chatbot](https://chatbot.northbeambuilds.com/) — custom chat answers in more places than a website
+- [AI Phone Receptionist](https://receptionist.northbeambuilds.com/) — a voice that answers your phone when you can’t
