@@ -15,7 +15,7 @@ Not for: Your shop already has a modern website with booking that works.; Your b
 
 ## Price
 
-From $249 one-time. Most simple sites land at the starting price. You always get a firm quote in writing before we start — the quote is the price.
+From $249 one-time. Most simple sites land at the starting price. You always get a firm quote in writing before we start — the quote is the price. Live by the date we agree, or your setup fee comes back in full — guaranteed.
 Buy online (Stripe checkout): https://buy.stripe.com/eVq6oHg3q7xG1S21AWgYU02
 
 ## How it works
@@ -31,6 +31,7 @@ Buy online (Stripe checkout): https://buy.stripe.com/eVq6oHg3q7xG1S21AWgYU02
 - Booking notices sent to you.
 - Your contact info done right everywhere on the page.
 - It’s your website and your content — you own it.
+- Live by the date we agree, or your setup fee comes back in full — guaranteed.
 
 ## Questions and answers
 
@@ -39,7 +40,7 @@ Buy online (Stripe checkout): https://buy.stripe.com/eVq6oHg3q7xG1S21AWgYU02
 - Q: Can customers really book without calling?
   A: Yes. They pick from the open times on the booking calendar we build around your hours and rules, and get a confirmation. You get a notice right away — the demo on this site runs the same booking flow.
 - Q: How long does it take?
-  A: We give you a launch date in writing before you pay anything — and the firm quote and the date are the deal.
+  A: We give you a firm quote and a launch date in writing before we start building. Paying online books the starter build — and the firm quote and the date are the deal.
 - Q: What if I already have a website?
   A: We can rebuild it or replace it. If what you have already works, we’ll tell you to keep it.
 
@@ -57,7 +58,7 @@ Email: northbeambuilds@gmail.com (a person replies within one business day)
 
 ## Other Northbeam Builds products
 
-- [Never-Miss-a-Lead](https://nevermiss.northbeambuilds.com/) — instant replies to missed calls and website forms
+- [Never-Miss-a-Lead](https://nevermiss.northbeambuilds.com/) — replies in under a minute on one intake channel to start: missed calls, website forms, or after-hours messages — whichever costs you more jobs
 - [Website FAQ & Lead Capture Agent](https://faqagent.northbeambuilds.com/) — a website chat box that answers questions and captures leads
 - [AI Chatbot](https://chatbot.northbeambuilds.com/) — a custom chat agent, built around your business
 - [AI Phone Receptionist](https://receptionist.northbeambuilds.com/) — a voice that answers your phone when you can’t
