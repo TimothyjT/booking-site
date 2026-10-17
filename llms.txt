@@ -44,12 +44,16 @@ Buy online (Stripe checkout): https://buy.stripe.com/eVq6oHg3q7xG1S21AWgYU02
 - Q: What if I already have a website?
   A: We can rebuild it or replace it. If what you have already works, we’ll tell you to keep it.
 
+- Q: Is there a page for salons or med spas?
+  A: Yes — https://booking.northbeambuilds.com/for-salons/ covers a website for salons and med spas where clients pick a service, pick a time, and book themselves, with stylist choice, walk-ins, and moving a booking answered. Same price: $249 starting, firm quote in writing.
+
 ## Links
 
 - Home: https://booking.northbeambuilds.com/
 - Pricing: https://booking.northbeambuilds.com/pricing/
 - FAQ: https://booking.northbeambuilds.com/faq/
 - Contact: https://booking.northbeambuilds.com/contact/
+- For salons and med spas: https://booking.northbeambuilds.com/for-salons/
 - Concept demo (not a client): https://northbeambuilds.com/demos/texas-pro-build/
 
 ## Contact
